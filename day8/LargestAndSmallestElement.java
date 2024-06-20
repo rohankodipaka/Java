@@ -2,7 +2,7 @@ package com.javacoding.day8;
 
 public class LargestAndSmallestElement {
 
-    public static int largestElement(int[] numbers){    
+    public static int largestElement(int[] numbers){
         int max_number = numbers[0];
         for(int i = 1; i < numbers.length; i++){
             if(max_number < numbers[i]){
