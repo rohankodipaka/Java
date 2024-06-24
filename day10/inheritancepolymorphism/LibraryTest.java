@@ -1,4 +1,6 @@
-package com.javacoding.day10;
+package com.javacoding.day10.inheritancepolymorphism;
+
+// Task 1 : Library System with Different Types of Books
 
 public class LibraryTest {
     public static void main(String[] args) {
