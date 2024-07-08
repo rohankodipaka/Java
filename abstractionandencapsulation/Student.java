@@ -1,4 +1,4 @@
-package com.javacoding.day11and12.abstractionencapsulation;
+package com.javacoding.abstractionandencapsulation;
 //Task 2: Encapsulated Student Class
 
 public class Student {

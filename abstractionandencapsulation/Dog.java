@@ -1,4 +1,4 @@
-package com.javacoding.day11and12.abstractionencapsulation;
+package com.javacoding.abstractionandencapsulation;
 //Task 1: Animal Classification System
 
 public class Dog extends Animal{
