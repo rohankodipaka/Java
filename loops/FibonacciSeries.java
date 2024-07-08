@@ -1,4 +1,4 @@
-package com.javacoding.day4;
+package com.javacoding.loops;
 import java.util.Scanner;
 
 public class FibonacciSeries {
