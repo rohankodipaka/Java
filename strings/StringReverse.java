@@ -1,4 +1,4 @@
-package com.javacoding.day9;
+package com.javacoding.strings;
 
 import java.util.Scanner;
 
