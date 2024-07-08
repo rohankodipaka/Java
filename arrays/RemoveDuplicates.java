@@ -1,4 +1,4 @@
-package com.javacoding.day8;
+package com.javacoding.arrays;
 import java.util.HashMap;
 
 //optimal solution using Hashmap

@@ -1,6 +1,4 @@
-package com.javacoding.day8;
-
-import java.util.Scanner;
+package com.javacoding.arrays;
 
 public class ReverseArray {
     public static int[] reverseAnArray(int[] numbers){
