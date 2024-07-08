@@ -1,4 +1,4 @@
-package com.javacoding.day10.inheritancepolymorphism;
+package com.javacoding.inheritanceandpolymorphism;
 
 // Task 1 : Library System with Different Types of Books
 
