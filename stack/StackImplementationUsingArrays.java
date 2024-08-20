@@ -2,7 +2,7 @@ package com.javacoding.stack;
 
 
 
-public class StackImplementation {
+public class StackImplementationUsingArrays {
     public static void main(String[] args) {
 
         stack stack = new stack();
