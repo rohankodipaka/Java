@@ -29,6 +29,14 @@ public class LinkedList {
     public static void main(String[] args) {
         int[] values = {12,2,3,4,5};
         Node head = convertArrayToLL(values);
-        System.out.println(head.data);
+        // for finding head
+         System.out.println("Head is - " + head.data);
+
+        //Traverse through LL
+        Node temp = head;
+        while(temp != null){
+            System.out.print(temp.data + " ");
+            temp = temp.next;
+        }
     }
 }
